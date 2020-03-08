@@ -4,7 +4,7 @@ Implementing filtering and non-max suppression parts of YOLO algorithm (608x608 
 
 ## Setup
 
-1. Download [pre-trained Yolo model](https://pjreddie.com/darknet/yolo/) into *model_data* folder
+1. Download [pre-trained Yolo model](https://drive.google.com/file/d/1SX80rS5ZobSDOjpFbZYASpA4i6byVoSp/view?usp=sharing) into *model_data* folder
 2. Put test images in *images* folder
 3. Open *yolo_object_detection.ipynb* and run all cells, 
 4. Replace 0001.jpg in `predict(sess, '0001.jpg')` with the name of the image you upload 
